@@ -15,7 +15,7 @@ jobs:
     - name: Build
       run: |
           cd Test_CICD
-          xcodebuild clean build -project Test_CICD.xcodeproj -scheme Test_CICD -destination "${destination}" CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO ONLY_ACTIVE_ARCH=NO
+          xcodebuild clean build -project Test_CICD.xcodeproj -scheme Test_CICD -destination "${destination}"
       env:
          destination: ${{ matrix.destination }}
     - name: Run tests
