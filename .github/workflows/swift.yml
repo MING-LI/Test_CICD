@@ -14,7 +14,6 @@ jobs:
     - uses: actions/checkout@v1
     - name: Build
       run: |
-          pwd
           xcodebuild clean build -project Test_CICD.xcodeproj -scheme Test_CICD -destination "${destination}"
       env:
          destination: ${{ matrix.destination }}
