@@ -20,6 +20,12 @@ var x = 10;
 + var y = 10;
 ```
 
+|Col A| ColB|
+|1|a|
+|2|b|
+
+
+
 ===
 
 MD is **cool**
