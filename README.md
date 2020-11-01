@@ -7,9 +7,10 @@ Test only
 > - **By Who**
 
 Here is my code:
-
+```js
    var x = 100;
    const dog = 'golden';
+```
 
 ===
 
