@@ -14,6 +14,12 @@ Here is my code:
 
 Try inline code `var = 10`?
 
+```diff
+var x = 10;
+- var y = 5;
++ var y = 10;
+```
+
 ===
 
 MD is **cool**
