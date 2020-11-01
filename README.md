@@ -31,14 +31,15 @@ h2
 - 1
     * sift the flower
         *sift the flower
-
+        
             This is inline
             
             ![](http://unsplash.it/500/300?random)
             
-            ```js
-                var x = 100;
-            ```
+   ```js
+    var x = 100;
+   ```
+   
 - 2
 - 3
 
