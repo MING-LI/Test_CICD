@@ -12,6 +12,8 @@ Here is my code:
    const dog = 'golden';
 ```
 
+Try inline code `var = 10`?
+
 ===
 
 MD is **cool**
