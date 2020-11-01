@@ -5,7 +5,7 @@ Test only
 
 
 ## Check Box in MD
-* [ ] Do learning 
+* [x] Do learning 
 * [ ] Buy Drinks
 * [ ] Get Lunch
 * [ ] Call Friends 
