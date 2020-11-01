@@ -3,7 +3,7 @@ Test only
 
 ---
 > Here is a quote
-- **By Who**
+> - **By Who**
 
 ===
 
