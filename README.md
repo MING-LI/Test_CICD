@@ -20,7 +20,7 @@ var x = 10;
 + var y = 10;
 ```
 
-|Col A| ColB| Col C|
+|Col A Left Align| Col B Right Align| Col C Centered|
 |:-------------|-------------:|:------------:|
 |1|a|21|
 |2|b|22|
