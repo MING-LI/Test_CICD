@@ -7,13 +7,13 @@ suppose __bold__
 
 really ~~cool~~
 
-# about Web bos
+# about project
 ## Heading2
 h1
 ===
 h2
 ---
-<http://www.gogogo.com>
+<http://www.google.com>
 [hello](http://www.google.com)
 [hackeryou.com](http://www.yahoo.com.hk "This is to yahoo")
 [test][1]
